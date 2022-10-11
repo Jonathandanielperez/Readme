@@ -1,4 +1,4 @@
-<img src="assest\Office Law Firm Worker Linked in Page Cover Template with Skyscrapers .gif" height="450px" width="100%"/>
+<img src="assest\Office Law Firm Worker Linked in Page Cover Template with Skyscrapers .gif" height="100%" width="100%"/>
 
 <h2>
  👨‍💼 Desarrollador Full Satck :computer: Desarrollador Font End 💻 vivo en 🏡 Quilmes, Buenos aires, Argentina 
