@@ -21,6 +21,16 @@
   <br />
 </p>
 
+## :pushpin: Proyectos:
+
+<p>
+  <p>Coffee`s Order es una aplicacion web diseñada para una cafeteria, la cual se puede registrarte como usuario, realizar compras, elegir tus productos favoritos, dejar comentarios y calificarlos, entre otras cosas </p>
+  <p>
+  Has click en el logo para acceder a la pagina
+  </p>
+  <a href="http://coffeemainapp.vercel.app/" ><img src="logo\299628251_481470750202700_2191909760058801525_n.jpg"></a>
+</p>
+
 ## :paperclip: Datos de contacto:
 <span>
  <a href="www.linkedin.com/in/jonathanperezfrontenddeveloper" ><img width="5%" src="logo\logo-linkedln.png"> &nbsp;
