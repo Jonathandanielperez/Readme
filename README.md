@@ -9,15 +9,15 @@
 ## :star: Tecnologias:
 
 <p>
-  <code><img width="10%" src="logo\logo-react.png"></code>
-  <code><img width="10%" height="50px" src="logo\nodejs-1-logo-png-transparent.png"></code>
-  <code><img width="10%" height="80px" src="logo\js-logo.webp"></code>
-  <code><img width="7%" height="80px" src="logo\logo-css.png"></code>
+  <img width="10%" src="logo\logo-react.png">
+  <img width="10%" height="50px" src="logo\nodejs-1-logo-png-transparent.png">
+  <img width="10%" height="80px" src="logo\js-logo.webp">
+  <img width="7%" height="80px" src="logo\logo-css.png">
   <br />
-  <code><img width="15%" src="logo\242-2423721_logo-postgresql.png"></code>
-  <code><img width="15%" src="logo\Expressjs.png"></code>
-  <code><img  width="15%" height="70px" src="logo\sequelize-3-1175091.webp"></code>
-  <code><img width="15%" src="logo\png-transparent-responsive-web-design-web-development-bootstrap-web-framework-web-design-purple-template-web-design.png"></code>
+  <img width="15%" src="logo\242-2423721_logo-postgresql.png">
+  <img width="15%" src="logo\Expressjs.png">
+  <img width="15%" src="logo\png-transparent-responsive-web-design-web-development-bootstrap-web-framework-web-design-purple-template-web-design.png">
+  <img  width="15%" height="70px" src="logo\sequelize-3-1175091.webp">
   <br />
 </p>
 
