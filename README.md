@@ -22,28 +22,26 @@
 </p>
 
 ## :pushpin: Proyecto:
-
 <p>
-  <a><img src="images\Captura de pantalla (35).png"></a>
-  <a><img src="images\Captura de pantalla (36).png"></a>
-  <a><img src="images\Captura de pantalla (37).png"></a>
+Coffee`s Orders
 </p>
 <p>
-  <a><img src="images\Captura de pantalla (38).png"></a>
-  <a><img src="images\Captura de pantalla (39).png"></a>
-  <a><img src="images\Captura de pantalla (40).png"></a>
-</p>
-<p>
-  <a><img src="images\Captura de pantalla (41).png"></a>
-  <a><img src="images\Captura de pantalla (42).png"></a>
-  <a><img src="images\Captura de pantalla (44).png"></a>
-  <a><img src="images\Captura de pantalla (45).png"></a>
+  <a><img src="images\Captura de pantalla (35).png"  width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (36).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (37).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (38).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (39).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (40).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (41).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (42).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (44).png" width="350px" height="150px"></a>
+  <a><img src="images\Captura de pantalla (45).png" width="350px" height="150px"></a>
 </p> 
 
 <p>
   Has click en el logo para acceder a la pagina
   </p>
-  <a href="http://coffeemainapp.vercel.app/" ><img src="logo\299628251_481470750202700_2191909760058801525_n.jpg"></a>
+  <a href="http://coffeemainapp.vercel.app/" ><img src="logo\299628251_481470750202700_2191909760058801525_n.jpg" width="100px" height="100px"></a>
 </p>
 
 ## :paperclip: Datos de contacto:
