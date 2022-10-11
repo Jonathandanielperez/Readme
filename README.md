@@ -21,11 +21,26 @@
   <br />
 </p>
 
-## :pushpin: Proyectos:
+## :pushpin: Proyecto:
 
 <p>
-  <p>Coffee`s Order es una aplicacion web diseñada para una cafeteria, la cual se puede registrarte como usuario, realizar compras, elegir tus productos favoritos, dejar comentarios y calificarlos, entre otras cosas </p>
-  <p>
+  <a><img src="images\Captura de pantalla (35).png"></a>
+  <a><img src="images\Captura de pantalla (36).png"></a>
+  <a><img src="images\Captura de pantalla (37).png"></a>
+</p>
+<p>
+  <a><img src="images\Captura de pantalla (38).png"></a>
+  <a><img src="images\Captura de pantalla (39).png"></a>
+  <a><img src="images\Captura de pantalla (40).png"></a>
+</p>
+<p>
+  <a><img src="images\Captura de pantalla (41).png"></a>
+  <a><img src="images\Captura de pantalla (42).png"></a>
+  <a><img src="images\Captura de pantalla (44).png"></a>
+  <a><img src="images\Captura de pantalla (45).png"></a>
+</p> 
+
+<p>
   Has click en el logo para acceder a la pagina
   </p>
   <a href="http://coffeemainapp.vercel.app/" ><img src="logo\299628251_481470750202700_2191909760058801525_n.jpg"></a>
