@@ -33,6 +33,6 @@
 
 ## :paperclip: Datos de contacto:
 <span>
- <a href="www.linkedin.com/in/jonathanperezfrontenddeveloper" ><img width="5%" src="logo\logo-linkedln.png"> &nbsp;
- <a href="mailto:jonathantj63@gmail.com" ><img width="5%" src="logo\logo-Gmail-1.png">  
+ <a href="https://www.linkedin.com/in/jonathanperezfrontenddeveloper?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkfYSwWoiRleXiyv3sHW66g%3D%3D" ><img width="5%" src="logo\logo-linkedln.png"> &nbsp;
+ <a href="mailto:jonathantj63@gmail.com" ><img width="7%" src="logo\logo-Gmail-1.png">  
 </span>
