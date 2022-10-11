@@ -23,6 +23,6 @@
 
 ## :paperclip: Datos de contacto:
 <span>
- <a href="www.linkedin.com/in/jonathanperezfrontenddeveloper" ><img width="5%" src="logo\linkedin-social-media-icon-design-template-vector-png_127000.jpg"> &nbsp;
+ <a href="www.linkedin.com/in/jonathanperezfrontenddeveloper" ><img width="5%" src="logo\logo-linkedln.png"> &nbsp;
  <a href="mailto:jonathantj63@gmail.com" ><img width="5%" src="logo\logo-Gmail-1.png">  
 </span>
